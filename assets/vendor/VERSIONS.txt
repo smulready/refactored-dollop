@@ -1,0 +1,6 @@
+Bundled libraries (all MIT licensed, see the LICENSE files in this folder)
+
+cytoscape.min.js      Cytoscape.js 3.34.1
+cytoscape-fcose.js    cytoscape-fcose 2.2.0
+cose-base.js          cose-base 2.2.0
+layout-base.js        layout-base 2.0.1
